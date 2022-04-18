@@ -26,8 +26,8 @@
 
 **ALU：**
 
-![ALU1](.\pic\ALU1.png)
+![ALU1](https://github.com/jiahong-lin/Coursera-Nand2Tetris/blob/main/nand2tetris/projects/02/pic/ALU1.png)
 
 
 
-![ALU2](.\pic\ALU2.png)
+![ALU2](https://github.com/jiahong-lin/Coursera-Nand2Tetris/blob/main/nand2tetris/projects/02/pic/ALU2.png)
